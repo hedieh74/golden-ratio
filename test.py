@@ -1,6 +1,6 @@
 import turtle as tr
 
- 
+
 def fibonachi(num):
     fibo = [0, 1]
     if num < 2:
